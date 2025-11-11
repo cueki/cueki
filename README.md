@@ -4,7 +4,7 @@ Engineer with 5 YOE building computer vision systems using NVIDIA TLT/DeepStream
 
 This account contains my public pet projects. 
 
-I enjoy: Python, C++, JavaScript, Bash
+I enjoy: Python, C++, Bash
 
 I've worked with: TLT, DeepStream, TensorRT, Triton, Jetson SDK. I am not going to list all the Python ones.
 
