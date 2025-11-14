@@ -1,6 +1,6 @@
 ## Madison Lovett
 
-I have 5 YOE building computer vision systems using NVIDIA TLT/DeepStream framework. Patent holder.
+Five years of expirence building computer vision systems using the NVIDIA TLT/DeepStream framework. Patent holder.
 
 This account contains my public pet projects. 
 
