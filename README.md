@@ -1,12 +1,10 @@
 ## Madison Lovett
 
-Five years of expirence building computer vision systems using the NVIDIA TLT/DeepStream framework. Patent holder.
+For a while I built computer vision systems using the NVIDIA TLT/DeepStream framework.
 
 This account contains my public pet projects. 
 
 I enjoy: Python, C++, Bash
-
-I've worked with: TLT, DeepStream, TensorRT, Triton, Jetson SDK. I am not going to list all the Python ones.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cueki&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
