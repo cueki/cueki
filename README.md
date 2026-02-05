@@ -4,8 +4,6 @@ For a while I built computer vision systems using the NVIDIA TLT/DeepStream fram
 
 This account contains my public pet projects. 
 
-I enjoy: Python, C++, Bash
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cueki&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 ### Contact
